@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (large dataset files)
+data/
+
+# Generated outputs (graphs, saved models)
+outputs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# md
+claude.md
+result_report.md
